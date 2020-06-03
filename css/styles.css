@@ -1,6 +1,7 @@
 .letter {
   display: none;
-  max-width: 60%;
+  height: auto;
   border-style: solid;
-  padding: 10px;
+  padding: 20px 20px 20px 20px;
+  margin-top: 40px;
 }
