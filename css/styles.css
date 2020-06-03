@@ -1,0 +1,6 @@
+.letter {
+  display: none;
+  max-width: 60%;
+  border-style: solid;
+  padding: 10px;
+}
